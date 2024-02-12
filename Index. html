@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> form</title>
+</head>
+
+<body>
+ <form action="thanks.html">
+   <fieldset >
+     <legend> registration form </legend>
+   <label for="name">Name</label>
+   <input  id= "name" type="text"> <br><br>
+   <label for="pass">password</label>
+   <input  id ="pass" type="password"><br><br>
+   <label for="add">Address</label>
+   <input  id ="add"type="text"><br><br
+   <label for="mob">mobile</label>
+   <input id="mob" type="number"><br><br>
+   <label for="gender">gender</label>
+   <input di ="gender" name="gander" type="radio">male
+   <input di ="gender"name="gender" type="radio"> femal
+   <input di="gender"name="gender" type="radio"> other <br><br />
+   <label for="hob">hobbies</label>
+   <input type="checkbox">cricket
+   <input type="checkbox">kho-kho
+   <input type="checkbox">in door games
+   <input type="checkbox">out door
+   games <br><br />
+  <input type="file">
+  <br> <br>
+  <label for="city">city</label>
+  <select name="" id="">
+  <option value="0"> select city</option>
+  <optgroup label ="under 50 km">
+    <option value="Nagpur">Nagpur</option>
+   <option value="wardha">wardha</option>
+   </optgroup> <optgroup label=" Above 50 km">
+     <option value=" Mumbai"> Mumbai</option>
+   </optgroup>
+   </select> <br><br>
+   <input type="submit" value="click here">
+   </fieldset>
+ </form>
+</body>
+
+</html><!DOCTYPE html>
+<html>
+
+<head>
+  <title> form</title>
+</head>
+
+<body>
+ <form action="thanks.html">
+   <fieldset >
+     <legend> registration form </legend>
+   <label for="name">Name</label>
+   <input  id= "name" type="text"> <br><br>
+   <label for="pass">password</label>
+   <input  id ="pass" type="password"><br><br>
+   <label for="add">Address</label>
+   <input  id ="add"type="text"><br><br
+   <label for="mob">mobile</label>
+   <input id="mob" type="number"><br><br>
+   <label for="gender">gender</label>
+   <input di ="gender" name="gander" type="radio">male
+   <input di ="gender"name="gender" type="radio"> femal
+   <input di="gender"name="gender" type="radio"> other <br><br />
+   <label for="hob">hobbies</label>
+   <input type="checkbox">cricket
+   <input type="checkbox">kho-kho
+   <input type="checkbox">in door games
+   <input type="checkbox">out door
+   games <br><br />
+  <input type="file">
+  <br> <br>
+  <label for="city">city</label>
+  <select name="" id="">
+  <option value="0"> select city</option>
+  <optgroup label ="under 50 km">
+    <option value="Nagpur">Nagpur</option>
+   <option value="wardha">wardha</option>
+   </optgroup> <optgroup label=" Above 50 km">
+     <option value=" Mumbai"> Mumbai</option>
+   </optgroup>
+   </select> <br><br>
+   <input type="submit" value="click here">
+   </fieldset>
+ </form>
+</body>
+
+</html>
